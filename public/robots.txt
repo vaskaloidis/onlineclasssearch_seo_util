@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow:
+Allow: /sitemap.xml
+
+Sitemap: http://onlineclasssearch.com/sitemap.xml
